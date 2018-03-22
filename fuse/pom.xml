@@ -37,7 +37,7 @@
         <apache.httpcomponents.version>4.5</apache.httpcomponents.version>
     </properties>
 
-    <name>Keycloak Quickstart: Fuse quickstarts parent</name>
+    <name>Red Hat SSO Quickstart: Fuse quickstarts parent</name>
     <description>Parent of the JBoss Fuse quickstarts</description>
 
     <licenses>

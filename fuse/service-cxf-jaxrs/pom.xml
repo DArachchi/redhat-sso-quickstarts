@@ -28,7 +28,7 @@
     <artifactId>keycloak-service-cxf-jaxrs</artifactId>
     <version>4.0.0.Beta1</version>
     <packaging>bundle</packaging>
-    <name>Keycloak Quickstart: JBoss Fuse Service - CXF JAXRS</name>
+    <name>Red Hat SSO Quickstart: JBoss Fuse Service - CXF JAXRS</name>
     <description>JBoss Fuse Apache CXF JAXRS Service Secured by Keycloak</description>
 
     <licenses>

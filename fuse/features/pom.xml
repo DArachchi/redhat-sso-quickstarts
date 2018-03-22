@@ -22,7 +22,7 @@
     <artifactId>keycloak-fuse-features</artifactId>
     <version>4.0.0.Beta1</version>
     <packaging>pom</packaging>
-    <name>Keycloak Quickstart: Fuse Features</name>
+    <name>Red Hat SSO Quickstart: Fuse Features</name>
     <description>JBoss Fuse features to simplify install all Keycloak Fuse quickstarts</description>
 
     <licenses>
